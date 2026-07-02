@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>No frameworks. No shortcuts. Just math and NumPy.</b><br>
-  17 classic ML algorithms implemented the hard way — so you actually understand how they work.
+  Classic Machine Learning algorithms are implemented so you actually understand how they work.
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 Most ML tutorials give you `from sklearn.linear_model import LinearRegression` and call it a day. That's fine for getting things done, but it doesn't teach you what's happening under the hood.
 
-This repo is the opposite. Every algorithm here is built from scratch using only NumPy. No black boxes. If you want to understand *why* gradient descent converges, *how* a decision tree picks its splits, or *what* backpropagation actually computes — this is for you.
+This repo is the opposite. Every algorithm here is built from scratch using only NumPy. No black boxes. If you want to understand *why* gradient descent converges, *how* a decision tree picks its splits, or *what* backpropagation actually computes, this is for you.
 
 ## What's In Here
 

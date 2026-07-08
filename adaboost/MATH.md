@@ -1,4 +1,4 @@
-# AdaBoost — Mathematical Formulation with Code
+# AdaBoost
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Random Forest — Mathematical Foundations
+# Random Forest
 
 ## 1. Bootstrap Aggregating (Bagging)
 

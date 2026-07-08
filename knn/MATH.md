@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) — Math & Code Walkthrough
+# K-Nearest Neighbors (KNN)
 
 Every formula below is paired with the **exact** line(s) from `knn.py` that implement it.
 

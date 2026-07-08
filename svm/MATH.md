@@ -1,4 +1,4 @@
-# Support Vector Machine — Math
+# Support Vector Machine
 
 ## Geometric Margin
 

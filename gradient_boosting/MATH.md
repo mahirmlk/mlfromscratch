@@ -1,4 +1,4 @@
-# Gradient Boosting — Math & Code
+# Gradient Boosting
 
 ## Additive Model
 

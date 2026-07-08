@@ -1,4 +1,4 @@
-# Decision Trees — Mathematical Foundations
+# Decision Trees
 
 ## Recursive Binary Splitting
 

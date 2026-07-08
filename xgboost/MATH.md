@@ -1,4 +1,4 @@
-# XGBoost — Mathematical Derivation with Code References
+# XGBoost
 
 ## Regularized Objective
 

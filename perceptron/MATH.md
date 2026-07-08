@@ -1,4 +1,4 @@
-# Perceptron — Math + Code Walkthrough
+# Perceptron
 
 Every formula below is paired with the **exact line(s)** from `perceptron.py` that implement it.
 

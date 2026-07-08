@@ -1,4 +1,4 @@
-# Ridge Regression — Mathematical Explanation
+# Ridge Regression
 
 ## Why Regularization?
 

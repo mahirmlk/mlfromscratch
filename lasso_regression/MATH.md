@@ -1,4 +1,4 @@
-# Lasso Regression — Mathematical Foundations
+# Lasso Regression
 
 ## 1. Objective Function
 

@@ -1,4 +1,4 @@
-# Bayesian Regression — Mathematical Derivation & Code Walkthrough
+# Bayesian Regression 
 
 ## Model Setup
 

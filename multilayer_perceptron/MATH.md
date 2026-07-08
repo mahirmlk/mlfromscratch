@@ -1,4 +1,4 @@
-# Multilayer Perceptron — Mathematical Foundations
+# Multilayer Perceptron
 
 Every formula below is paired with the exact code from [`mlp.py`](mlp.py) that implements it.
 

@@ -1,4 +1,4 @@
-# Polynomial Regression — Math
+# Polynomial Regression
 
 ## Core Idea
 

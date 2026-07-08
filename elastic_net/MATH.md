@@ -1,4 +1,4 @@
-# Elastic Net — Mathematical Foundations
+# Elastic Net 
 
 ## Objective Function
 

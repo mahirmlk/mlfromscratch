@@ -1,4 +1,4 @@
-# Linear Regression — The Math
+# Linear Regression
 
 Linear regression fits a straight line (or hyperplane) to data. You have inputs $X$ and targets $y$, and you want to find weights $w$ that make $Xw$ as close to $y$ as possible.
 

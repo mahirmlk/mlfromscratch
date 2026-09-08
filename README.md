@@ -14,12 +14,6 @@
 
 ---
 
-## Why This Exists
-
-Most ML tutorials give you `from sklearn.linear_model import LinearRegression` and call it a day. That's fine for getting things done, but it doesn't teach you what's happening under the hood.
-
-This repo is the opposite. Every algorithm here is built from scratch using only NumPy. No black boxes. If you want to understand *why* gradient descent converges, *how* a decision tree picks its splits, or *what* backpropagation actually computes, this is for you.
-
 ## What's In Here
 
 ### Regression
@@ -85,7 +79,7 @@ $$w = (X^TX)^{-1}X^Ty$$
 self.w = np.linalg.inv(X.T @ X) @ X.T @ y  # (X^T X)^{-1} X^T y
 ```
 
-No disconnected theory and code. Every formula has a matching code block.
+Every formula has a matching code block.
 
 
 ## Running The Demos

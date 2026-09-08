@@ -8,7 +8,7 @@
 <h1 align="center">Machine Learning Algorithms From Scratch</h1>
 
 <p align="center">
-  <b>No frameworks. No shortcuts. Just math and NumPy.</b><br>
+
   Classic Machine Learning algorithms are implemented so you actually understand how they work.
 </p>
 

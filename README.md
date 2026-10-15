@@ -57,29 +57,6 @@ algorithm_name/
 └── MATH.md              # The math + how it maps to the code
 ```
 
-Every class follows the same pattern:
-
-```python
-model = SomeModel(hyperparams...)
-model.fit(X, y)          # train
-predictions = model.predict(X)  # predict
-```
-
-## Theory Linked to Code
-
-Each `MATH.md` doesn't just show formulas — it walks through the implementation line by line, mapping every equation to the exact code that computes it:
-
-```markdown
-### Normal Equation
-
-$$w = (X^TX)^{-1}X^Ty$$
-
-**In the code** (`linear_regression.py`):
-```python
-self.w = np.linalg.inv(X.T @ X) @ X.T @ y  # (X^T X)^{-1} X^T y
-```
-
-Every formula has a matching code block.
 
 
 ## Running The Demos
